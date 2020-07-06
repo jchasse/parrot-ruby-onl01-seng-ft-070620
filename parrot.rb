@@ -4,4 +4,3 @@
 def parrot
   "Squawk!"
 end
-
