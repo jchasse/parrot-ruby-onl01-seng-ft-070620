@@ -4,4 +4,3 @@
 def parrot(string)
   print "Squawk!"
 end
-
